@@ -1,0 +1,1 @@
+pybenzinaconcat @ git+https://github.com/satyaog/pybenzinaconcat.git@0.3.0#egg=pybenzinaconcat-0.3.0
